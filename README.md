@@ -1,4 +1,5 @@
-# itn
+# ITN - prova prática
+- Prova prática de frontend realizado em 45 min, utilizei o framework VueJS
 
 ## Project setup
 ```
